@@ -1,0 +1,21 @@
+{
+    "preface" : "list skills to exclude from randomization one per line exactly as they appear in the character data",
+    "excludes" : [
+            "transform",
+            "protect_me",
+            "sniper_shot",
+            "collect_bounty",
+            "smite",
+            "poison_dart",
+            "wicked_hack",
+            "pistol_shot",
+            "hounds_rush",
+            "harvest",
+            "chop",
+            "crush",
+            "wyrd_reconstruction",
+            "plague_grenade",
+            "divine_grace",
+            "punish"
+            ]
+}
